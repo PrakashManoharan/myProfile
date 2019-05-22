@@ -1,0 +1,36 @@
+.showcase {
+  background-image: url('../components/images/bg4.jpg');
+  background-position: cover;
+  height: 75vh;
+  margin-top: -30px;
+  margin-bottom: 5px;
+}
+
+.showcase-content {
+  vertical-align: top;
+}
+
+.showcase-header {
+  text-transform: uppercase;
+  padding-top: 15%;
+}
+
+.head-01 {
+  display: block;
+  letter-spacing: 10%;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.head-02 {
+  display: block;
+  letter-spacing: 18.2px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.p-text {
+  font-size: 24px;
+  font-weight: 300;
+  padding: 10px;
+}

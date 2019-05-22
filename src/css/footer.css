@@ -1,0 +1,13 @@
+.footer-list ul {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-list ul li a i {
+  font-size: 1.5em;
+  padding: 20px;
+}
+
+.rights {
+  font-size: 12px;
+}
