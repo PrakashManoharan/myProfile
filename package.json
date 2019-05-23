@@ -2,6 +2,7 @@
   "name": "praxprofile",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://prakashmanoharan.github.io/praxprofile/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "materialize-css": "^1.0.0-rc.2",
@@ -12,6 +13,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
