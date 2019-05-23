@@ -29,13 +29,13 @@ class Resume extends React.Component {
               <div className="card-content">
                 <br />
                 <br />
-                <div className="btn btn-large  blue lighten-5 grey-text hoverable">
-                  <a href="../components/files/PraxResume.docx">
-                    <span>Prakash Resume{''}</span>
-                    <Link to="#">
-                      <i className="fas fa-file-download right white-text" />
-                    </Link>
+                <div className="btn btn-large  blue lighten-5 hoverable">
+                  <a href="../components/files/PraxResume.docx" download>
+                    <span className="grey-text">Prakash Resume{''}</span>
                   </a>
+                  <Link to="#">
+                    <i className="fas fa-file-download right white-text" />
+                  </Link>
                 </div>
               </div>
               <br />
@@ -51,7 +51,9 @@ class Resume extends React.Component {
             <div className="col s12 m4">
               <div className="card-content">
                 <div className="btn btn-large hoverable blue lighten-5 grey-text">
-                  MongoDB{' '}
+                  <a href="../components/files/mongo.pdf" download>
+                    <span className="grey-text">MongoDB Basics{''}</span>
+                  </a>
                   <Link to="#">
                     <i className="fas fa-file-download right white-text" />
                   </Link>
@@ -61,8 +63,13 @@ class Resume extends React.Component {
 
             <div className="col s12 m4">
               <div className="card-content">
-                <div className="btn btn-large hoverable  blue lighten-5 grey-text">
-                  Scrum Master{' '}
+                <div className="btn btn-large hoverable  blue lighten-5">
+                  <a
+                    href="../components/files/Srum Master Certification.pdf"
+                    download
+                  >
+                    <span className="grey-text">Scrum Master{''}</span>
+                  </a>
                   <Link to="#">
                     <i className="fas fa-file-download right white-text" />
                   </Link>
@@ -73,24 +80,14 @@ class Resume extends React.Component {
             <div className="col s12 m4">
               {' '}
               <div className="card-content">
-                <div className="btn btn-large hoverable  blue lighten-5 grey-text">
-                  ITIL Serv.Mgmt{' '}
+                <div className="btn btn-large hoverable  blue lighten-5">
+                  <a href="../components/files/ITIL Certification.pdf" download>
+                    <span className="grey-text">ITIL Certification</span>
+                  </a>
                   <Link to="#">
                     <i className="fas fa-file-download right white-text" />
                   </Link>
                 </div>
-              </div>
-            </div>
-
-            <div className="col s12 m4">
-              {' '}
-              <div className="card-content">
-                <div className="btn btn-large hoverable  blue lighten-5 grey-text">
-                  PMP Training{' '}
-                  <Link to="#">
-                    <i className="fas fa-file-download right white-text" />
-                  </Link>
-                </div>{' '}
               </div>
             </div>
           </div>

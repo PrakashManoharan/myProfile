@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 import M from 'materialize-css';
 import '../css/showcase.css';
 
@@ -25,13 +24,6 @@ export default class Showcase extends Component {
         </div>
         <br />
         <br />
-        <div className="center-align">
-          <Link to="/">
-            <i className="material-icons medium grey-text text-lighten-3">
-              keyboard_arrow_down
-            </i>
-          </Link>
-        </div>
       </div>
     );
   }

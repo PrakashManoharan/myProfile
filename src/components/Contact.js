@@ -33,12 +33,12 @@ class Contact extends React.Component {
                     <li>Prakash Manoharan</li>
                     <div className="divider" />
                     <br />
-                    <li>047008417</li>
+                    <li>0470 084 197</li>
                     <div className="divider" />
                     <br />
                     <li>
                       <Link className="grey-text text-darken-1" to="#">
-                        prakash.manoharan@outlook.com
+                        prax@outlook.com.au
                       </Link>
                     </li>
                     <div className="divider" />
@@ -54,26 +54,3 @@ class Contact extends React.Component {
   }
 }
 export default Contact;
-
-/*
-<nav className="grey lighten-3">
-                    <ul className="nav-wrapper">
-                      <li>
-                        <Link to="#">
-                          <i className="fab fa-skype fa-2x blue-text text-lighten-2" />
-                        </Link>
-                      </li>
-                      <li>
-                        <Link to="#">
-                          <i className="fab fa-whatsapp fa-2x blue-text text-lighten-2" />
-                        </Link>
-                      </li>
-                      <li>
-                        <Link to="#">
-                          <i className="fab fa-telegram-plane fa-2x blue-text text-lighten-2" />
-                        </Link>
-                      </li>
-                    </ul>
-                  </nav>
-
-*/

@@ -42,33 +42,3 @@ export default function Footer() {
     </footer>
   );
 }
-
-/*
-<div className="container">
-      <br />
-      <br />
-      <ul className="center-align">
-        <li>
-          <a href="https://www.linkedin.com/in/prakash020574/">
-            <i className="fab fa-linkedin blue-text" />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/prakash020574/">
-            <i className="fab fa-twitter blue-text" />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/prakash020574/">
-            <i className="fab fa-github blue-text" />
-          </a>
-        </li>
-      </ul>
-
-      <div>
-        <p className="center-aligned grey-text text-darken-2 small">
-          Designed and Developed by Prakash Manoharan &copyright 2019
-        </p>
-      </div>
-    </div>
-*/

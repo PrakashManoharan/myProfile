@@ -97,7 +97,7 @@ export default class Experience extends Component {
                       </li>
                       <br />
                       <li>
-                        Gathered specifications and requirements based on
+                        Collected specifications and requirements based on the
                         technical needs
                       </li>
                       <br />
@@ -112,8 +112,8 @@ export default class Experience extends Component {
                       </li>
                       <br />
                       <li>
-                        Cooperated and collaborated with web designers to match
-                        visual design intent
+                        Collaborated with web designers to align with the visual
+                        design intent
                       </li>
                     </ul>
                   </span>
@@ -139,8 +139,8 @@ export default class Experience extends Component {
                       </li>
                       <br />
                       <li>
-                        Gathered and refined specifications and requirements
-                        based on technical needs
+                        Gathered and refined requirements to suit the technical
+                        needs
                       </li>
                       <br />
                       <li>
@@ -150,11 +150,11 @@ export default class Experience extends Component {
                       <br />
                       <li>
                         Stay plugged into emerging technology trends and apply
-                        them into development activities
+                        them into the development activities
                       </li>
                       <br />
                       <li>
-                        Cooperate and collaborate with web designers to match
+                        Co-operate and collaborate with web designers to match
                         visual design intent
                       </li>
                     </ul>
@@ -168,99 +168,3 @@ export default class Experience extends Component {
     );
   }
 }
-
-/*
-Wireilla | Front-End Developer | Sydney | Jun 2018 - Current
-Wireilla | Web Developer | Sydney | Jan 2017 - May 2018
-Wireilla | Project Administrator | Sydney | Jan 2016 - Dec
-              2016
-
-<div className="card">
-        <div className="card-content">
-          <table className="striped blue lighten-4">
-            <thead>
-              <tr>
-                <th>Organisation</th>
-                <th>Position</th>
-                <th>Period</th>
-              </tr>
-            </thead>
-
-            <tbody>
-              <tr>
-                <td>Wireill</td>
-                <td>Front End Developer</td>
-                <td>Jun 2018 - Current</td>
-              </tr>
-              <tr>
-                <td>Wireill</td>
-                <td>Web Developer</td>
-                <td>Jan 2017 - May 2018</td>
-              </tr>
-              <tr>
-                <td>Wireill</td>
-                <td>Project Administrator</td>
-                <td>Jan 2016 - Dec 2016</td>
-              </tr>
-              <tr>
-                <td>Parramatta City Council</td>
-                <td>Print Consultant</td>
-                <td>Jun 2015 - Dec 2015</td>
-              </tr>
-              <tr>
-                <td>iKix 3D Prints</td>
-                <td>Business Head</td>
-                <td>Jul 2008 - Sep 2014</td>
-              </tr>
-              <tr>
-                <td>CADD Centre</td>
-                <td>Product Specialist - 3D</td>
-                <td>Jan 2006 - Jun 2008</td>
-              </tr>
-            </tbody>
-          </table>
-          <td className="grey lighten-4 grey-text text-darken-1">
-            Experience 1995-2005 will be shared on request!
-          </td>
-        </div>
-      </div>
-
-
-
-      <li>
-            <div className="collapsible-header">
-              <i className="fas fa-print" />
-              Parramatta City Council | Print Consultant | Sydney | Jun 2015 -
-              Dec 2015
-            </div>
-            <div className="collapsible-body blue lighten-5">
-              <span>Lorem ipsum dolor sit amet.</span>
-            </div>
-          </li>
-          <li>
-            <div className="collapsible-header">
-              <i className="fas fa-business-time" />
-              iKix 3D Prints | Business Head | India | Jul 2008 - Sep 2014
-            </div>
-            <div className="collapsible-body blue lighten-5">
-              <span>Lorem ipsum dolor sit amet.</span>
-            </div>
-          </li>
-          <li>
-            <div className="collapsible-header">
-              <i className="fab fa-product-hunt" />
-              CADD Centre | Product Specialist | India | Apr 2006 - Jun 2008
-            </div>
-            <div className="collapsible-body blue lighten-5">
-              <span>Lorem ipsum dolor sit amet.</span>
-            </div>
-          </li>
-          <li>
-            <div className="collapsible-header">
-              <i className="fas fa-history" /> 1995 - 2006 | India | Chennai
-            </div>
-            <div className="collapsible-body blue lighten-5">
-              <span>Career history will be available on request.</span>
-            </div>
-          </li>
-*/

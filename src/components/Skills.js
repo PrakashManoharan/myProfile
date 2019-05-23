@@ -9,15 +9,13 @@ export default function Skills() {
         <br />
         <ul>
           <li>
-            Front End Frameworks - HTML, CSS, Bootstrap, Material Design,
-            Javascript frameworks like React
+            FrontEnd Frameworks - HTML5, CSS3, Bootstrap, MaterializeCSS,
+            Javascript, React, Node
           </li>
           <br />
-          <li>Responsive and mobile design</li>
+          <li>Responsive mobile design</li>
           <br />
           <li>Cross-Browser development</li>
-          <br />
-          <li>Content management systems</li>
           <br />
           <li>Git and version control systems</li>
           <br />
@@ -51,9 +49,9 @@ export default function Skills() {
       <div className="card-content grey lighten-5">
         <div id="tab1">HTML5 | CSS3</div>
         <div id="tab2">Bootstrap 4 | Materialize CSS | SASS</div>
-        <div id="tab3">ES2015 Javascript | React Framework</div>
+        <div id="tab3">ES2015 Javascript | React Framework/Libraries</div>
         <div id="tab4">Node | Express | Axios | JSON</div>
-        <div id="tab5">MongoDB | Mongooose</div>
+        <div id="tab5">MongoDB | Mongoose</div>
         <div id="tab6">NPM | Github |Yarn | Webpack | Babel</div>
       </div>
     </div>

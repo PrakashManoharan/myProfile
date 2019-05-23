@@ -57,16 +57,17 @@ class Sidemenu extends Component {
             </li>
             <div className="divider" />
             <li className="hoverable">
-              <Link to="/contact" className="white-text">
-                Contact
-                <i className="fas fa-address-book white-text tiny" />
-              </Link>
-            </li>
-            <div className="divider" />
-            <li className="hoverable">
               <Link to="/downloads" className="white-text">
                 Downloads
                 <i className="fas fa-download tiny white-text" />
+              </Link>
+            </li>
+
+            <div className="divider" />
+            <li className="hoverable">
+              <Link to="/contact" className="white-text">
+                Contact
+                <i className="fas fa-address-book white-text tiny" />
               </Link>
             </li>
             <div className="divider" />
