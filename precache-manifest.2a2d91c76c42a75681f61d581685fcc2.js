@@ -4,32 +4,36 @@ self.__precacheManifest = [
     "url": "/myProfile/static/media/mongodb.c1432ce7.jpg"
   },
   {
-    "revision": "8c813a631ab3b831c412",
-    "url": "/myProfile/static/css/main.1fefd406.chunk.css"
+    "revision": "14c95573f6a39b9755f5",
+    "url": "/myProfile/static/css/main.995a63d8.chunk.css"
   },
   {
     "revision": "ae570b6cd2be029927d5",
     "url": "/myProfile/static/js/runtime~main.27b6ca18.js"
   },
   {
-    "revision": "199e9ec14308832c6a8a49bd96c1fde6",
-    "url": "/myProfile/static/media/bg4.199e9ec1.jpg"
+    "revision": "a1f31faea14c7e96931ff44cbc8fd140",
+    "url": "/myProfile/static/media/bg1.a1f31fae.jpg"
   },
   {
-    "revision": "f3fd57eca54f0d8e8196",
-    "url": "/myProfile/static/js/2.4c948e5d.chunk.js"
+    "revision": "2a567df36a0ccf259dd0",
+    "url": "/myProfile/static/js/2.c310d049.chunk.js"
   },
   {
-    "revision": "854db30742d174174357c5af43708fc0",
-    "url": "/myProfile/static/media/itil.854db307.png"
+    "revision": "8ff71639d0a882b4c7953392d3a6d7c3",
+    "url": "/myProfile/static/media/SMC.8ff71639.svg"
   },
   {
-    "revision": "c198900402a5310c09fe622da20f6c9b",
-    "url": "/myProfile/static/media/pmp.c1989004.jpg"
+    "revision": "031c63425d406b81a90105cd4c18346c",
+    "url": "/myProfile/static/media/ITIL.031c6342.jpg"
   },
   {
-    "revision": "8c813a631ab3b831c412",
-    "url": "/myProfile/static/js/main.00a2d748.chunk.js"
+    "revision": "8ef8977a8578ec4e51675f776aacc7ff",
+    "url": "/myProfile/static/media/pmp.8ef8977a.jpg"
+  },
+  {
+    "revision": "14c95573f6a39b9755f5",
+    "url": "/myProfile/static/js/main.ffa7517d.chunk.js"
   },
   {
     "revision": "8a17ce8531cf160f2c694f3c121d86e1",
@@ -52,11 +56,11 @@ self.__precacheManifest = [
     "url": "/myProfile/static/media/office.8b374d19.jpg"
   },
   {
-    "revision": "f3fd57eca54f0d8e8196",
+    "revision": "2a567df36a0ccf259dd0",
     "url": "/myProfile/static/css/2.87303b0b.chunk.css"
   },
   {
-    "revision": "c32324bbf3877aeea8dd15ac6943c318",
+    "revision": "603c2a5716e29b55938d485d6d3a61de",
     "url": "/myProfile/index.html"
   }
 ];
