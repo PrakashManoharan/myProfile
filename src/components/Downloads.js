@@ -1,6 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import axios from 'axios';
+import praxResume from './files/PraxResume.docx';
+import mongo from './files/mongo.pdf';
+import scrum from './files/Srum Master Certification.pdf';
+import itil from './files/ITIL Certification.pdf';
 
 import M from 'materialize-css';
 
@@ -32,7 +35,7 @@ class Resume extends React.Component {
                 <br />
                 <br />
                 <div className="btn btn-large blue lighten-5 hoverable">
-                  <a href="./files/PraxResume.docx" download>
+                  <a href={praxResume} download>
                     <span className="grey-text">Prakash Resume{''}</span>
                   </a>
                   <Link to="#">
@@ -53,7 +56,7 @@ class Resume extends React.Component {
             <div className="col s12 m4">
               <div className="card-content">
                 <div className="btn btn-large hoverable blue lighten-5 grey-text">
-                  <a href="../components/files/mongo.pdf" download>
+                  <a href={mongo} download>
                     <span className="grey-text">MongoDB Basics{''}</span>
                   </a>
                   <Link to="#">
@@ -66,10 +69,7 @@ class Resume extends React.Component {
             <div className="col s12 m4">
               <div className="card-content">
                 <div className="btn btn-large hoverable  blue lighten-5">
-                  <a
-                    href="../components/files/Srum Master Certification.pdf"
-                    download
-                  >
+                  <a href={scrum} download>
                     <span className="grey-text">Scrum Master{''}</span>
                   </a>
                   <Link to="#">
@@ -83,7 +83,7 @@ class Resume extends React.Component {
               {' '}
               <div className="card-content">
                 <div className="btn btn-large hoverable  blue lighten-5">
-                  <a href="../components/files/ITIL Certification.pdf" download>
+                  <a href={itil} download>
                     <span className="grey-text">ITIL Certification</span>
                   </a>
                   <Link to="#">
