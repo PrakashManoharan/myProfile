@@ -21,8 +21,8 @@ export default class Header1 extends Component {
               <Link to="#" className="sidenav-trigger" data-target="nav-mobile">
                 <i className="material-icons">menu</i>
               </Link>
-              <Link to="#" className="right disabled account_circle">
-                <i className="material-icons">account_circle</i>
+              <Link to="#" className="right account_circle">
+                <i className="material-icons disabled">account_circle</i>
               </Link>
             </div>
           </nav>

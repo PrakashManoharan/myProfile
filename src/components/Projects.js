@@ -31,38 +31,18 @@ class Projects extends React.Component {
               <div className="card-image">
                 <ul>
                   <li className="grey lighten-4 blue-text text-lighten-3 card-heading">
-                    IJCNC
+                    PRAX PROFILE
                   </li>
                 </ul>
-                <a href="http://airccse.org/journal/ijcnc.html">
-                  <img src={Project1} alt="project" />
-                </a>
-              </div>
-              <div className="card-content">
-                <p>
-                  Conceptualize a layout and created a template for a webpage
-                  with HTML5/CSS3.
-                </p>
-              </div>
-            </div>
-          </div>
 
-          <div className="col s12 m4 ">
-            <div className="card hoverable small">
-              <div className="card-image">
-                <ul>
-                  <li className="grey lighten-4 blue-text text-lighten-3 card-heading">
-                    WIREILLA
-                  </li>
-                </ul>
-                <a href="https://wireilla.org">
-                  <img src={Project2} alt="project2" />
+                <a href="https://prakashmanoharan.github.io/myProfile/#/">
+                  <img src={Project4} alt="project4" />
                 </a>
               </div>
               <div className="card-content">
                 <p>
-                  Designed, developed a website that is responsive across all
-                  devices using HTML5/CSS3, Bootstrap 4, Javascript
+                  Designed, developed, tested and deployed website - React,
+                  React-Router, MaterializeCSS
                 </p>
               </div>
             </div>
@@ -94,18 +74,38 @@ class Projects extends React.Component {
               <div className="card-image">
                 <ul>
                   <li className="grey lighten-4 blue-text text-lighten-3 card-heading">
-                    PRAX PROFILE
+                    WIREILLA
                   </li>
                 </ul>
-
                 <a href="https://wireilla.org">
-                  <img src={Project4} alt="project4" />
+                  <img src={Project2} alt="project2" />
                 </a>
               </div>
               <div className="card-content">
                 <p>
-                  Designed, developed, tested and deployed website - React,
-                  React-Router, MaterializeCSS
+                  Designed, developed a website that is responsive across all
+                  devices using HTML5/CSS3, Bootstrap 4, Javascript
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col s12 m4 ">
+            <div className="card hoverable small">
+              <div className="card-image">
+                <ul>
+                  <li className="grey lighten-4 blue-text text-lighten-3 card-heading">
+                    IJCNC
+                  </li>
+                </ul>
+                <a href="http://airccse.org/journal/ijcnc.html">
+                  <img src={Project1} alt="project" />
+                </a>
+              </div>
+              <div className="card-content">
+                <p>
+                  Conceptualize a layout and created a template for a webpage
+                  with HTML5/CSS3.
                 </p>
               </div>
             </div>

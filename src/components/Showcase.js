@@ -11,19 +11,15 @@ export default class Showcase extends Component {
     return (
       <div className="showcase">
         <div className="showcase-content">
-          <h2 className="showcase-header">
-            <span className="head-01 grey-text text-darken-2 center-align">
-              Front-End
-            </span>
-            <span className="head-02 grey-text center-align">Developer</span>
-          </h2>
-          <h5 className="p-text center-align">
+          <h2>
+            <span className="blue-text head-01">Front-End</span>
+            <span className="blue-text text-lighten-4 head-02">Developer</span>
+          </h2>{' '}
+          <h5 className="blue-text text-lighten-4 center-align">
             Embracing new web technologies to develop highly secured web
             applications
           </h5>
         </div>
-        <br />
-        <br />
       </div>
     );
   }

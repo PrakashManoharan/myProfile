@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+//import axios from 'axios';
 
 import M from 'materialize-css';
 
@@ -7,6 +8,7 @@ class Resume extends React.Component {
   componentDidMount() {
     M.AutoInit();
   }
+
   render() {
     return (
       <div>
@@ -29,8 +31,8 @@ class Resume extends React.Component {
               <div className="card-content">
                 <br />
                 <br />
-                <div className="btn btn-large  blue lighten-5 hoverable">
-                  <a href="../components/files/PraxResume.docx" download>
+                <div className="btn btn-large blue lighten-5 hoverable">
+                  <a href="./files/PraxResume.docx" download>
                     <span className="grey-text">Prakash Resume{''}</span>
                   </a>
                   <Link to="#">

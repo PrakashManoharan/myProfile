@@ -1,0 +1,12 @@
+.company-name {
+  font-size: 16px;
+  font-weight: 100px;
+}
+
+.job-title {
+  font-size: 16px;
+}
+
+ul .list-item li {
+  list-style-type: disc;
+}

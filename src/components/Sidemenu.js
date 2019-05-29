@@ -27,9 +27,11 @@ class Sidemenu extends Component {
                 <Link to="#user">
                   <img className="circle" src={PM} alt="profile-pic" />
                 </Link>
-
                 <Link to="#name">
                   <span className="white-text name">Prakash Manoharan</span>
+                </Link>
+                <Link to="#title">
+                  <span className="white-text name">Front-End Developer</span>
                 </Link>
                 <Link to="#email">
                   <span className="white-text email">prax@outlook.com.au</span>
