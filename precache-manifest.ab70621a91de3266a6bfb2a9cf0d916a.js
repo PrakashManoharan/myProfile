@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c1432ce7f3beadc279cbca5811879b15",
-    "url": "/myProfile/static/media/mongodb.c1432ce7.jpg"
+    "revision": "4c443c846f7364cd7e99d5a76782bcd6",
+    "url": "/myProfile/static/media/wireill.4c443c84.png"
   },
   {
-    "revision": "31f33777abeed5935587",
-    "url": "/myProfile/static/css/main.caccdac3.chunk.css"
+    "revision": "5485dde9249a7e0b127b",
+    "url": "/myProfile/static/css/main.b4d6a682.chunk.css"
   },
   {
     "revision": "ae570b6cd2be029927d5",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/myProfile/static/media/bg1.a1f31fae.jpg"
   },
   {
-    "revision": "2a567df36a0ccf259dd0",
-    "url": "/myProfile/static/js/2.c310d049.chunk.js"
+    "revision": "93dc6f57ac21f2fb8ec5",
+    "url": "/myProfile/static/js/2.6296e03a.chunk.js"
   },
   {
     "revision": "8ff71639d0a882b4c7953392d3a6d7c3",
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/myProfile/static/media/pmp.8ef8977a.jpg"
   },
   {
-    "revision": "31f33777abeed5935587",
-    "url": "/myProfile/static/js/main.fd2da876.chunk.js"
+    "revision": "c1432ce7f3beadc279cbca5811879b15",
+    "url": "/myProfile/static/media/mongodb.c1432ce7.jpg"
   },
   {
     "revision": "8a17ce8531cf160f2c694f3c121d86e1",
     "url": "/myProfile/static/media/csit.8a17ce85.png"
   },
   {
-    "revision": "4c443c846f7364cd7e99d5a76782bcd6",
-    "url": "/myProfile/static/media/wireill.4c443c84.png"
+    "revision": "5485dde9249a7e0b127b",
+    "url": "/myProfile/static/js/main.8c68c853.chunk.js"
   },
   {
     "revision": "ba1ff17cb940760e9cb89a87aa619ef3",
@@ -52,15 +52,31 @@ self.__precacheManifest = [
     "url": "/myProfile/static/media/PM Profile.ee4a409d.png"
   },
   {
+    "revision": "a908068280b0ad0008bb44b2cd78cfb0",
+    "url": "/myProfile/static/media/PraxResume.a9080682.docx"
+  },
+  {
+    "revision": "c308c9745c6351f2e29f27620bfa5f2a",
+    "url": "/myProfile/static/media/mongo.c308c974.pdf"
+  },
+  {
+    "revision": "9398ab707a477e5c22c6886fa5b80894",
+    "url": "/myProfile/static/media/Srum Master Certification.9398ab70.pdf"
+  },
+  {
+    "revision": "bbdc6431e09f46db173563c3a27c43d6",
+    "url": "/myProfile/static/media/ITIL Certification.bbdc6431.pdf"
+  },
+  {
     "revision": "8b374d197765ab78e3d092b135962b4a",
     "url": "/myProfile/static/media/office.8b374d19.jpg"
   },
   {
-    "revision": "2a567df36a0ccf259dd0",
+    "revision": "93dc6f57ac21f2fb8ec5",
     "url": "/myProfile/static/css/2.87303b0b.chunk.css"
   },
   {
-    "revision": "b1a35d9ce62a4b7bdb0485d493500f6a",
+    "revision": "5006dabc8276964e32a7f034504884dc",
     "url": "/myProfile/index.html"
   }
 ];
