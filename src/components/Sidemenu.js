@@ -24,18 +24,18 @@ class Sidemenu extends Component {
                 <div className="background">
                   <img src={Agree} alt="background-pic" />
                 </div>
-                <Link to="#user">
-                  <img className="circle" src={PM} alt="profile-pic" />
-                </Link>
-                <Link to="#name">
-                  <span className="white-text name">Prakash Manoharan</span>
-                </Link>
-                <Link to="#title">
-                  <span className="white-text name">Front-End Developer</span>
-                </Link>
-                <Link to="#email">
-                  <span className="white-text email">prax@outlook.com.au</span>
-                </Link>
+                <img
+                  className="circle profile-img"
+                  src={PM}
+                  alt="profile-pic"
+                />
+                <p className="white-text name name-card">Prakash MANOHARAN</p>
+                <p className="white-text title name-card">
+                  Front-End Developer
+                </p>
+                <p className="blue-text text-lighten-4 email name-card">
+                  prax@outlook.com.au
+                </p>
               </div>
             </li>
             <li className="hoverable">
@@ -64,7 +64,6 @@ class Sidemenu extends Component {
                 <i className="fas fa-download tiny white-text" />
               </Link>
             </li>
-
             <div className="divider" />
             <li className="hoverable">
               <Link to="/contact" className="white-text">

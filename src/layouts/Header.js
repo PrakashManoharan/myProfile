@@ -12,17 +12,17 @@ export default class Header1 extends Component {
   render() {
     return (
       <div>
-        <div className="navbar-fixed nav-bar">
+        <div className="nav-bar navbar-fixed show-on-small-only">
           <nav className="blue lighten-3">
             <div className="nav-wrapper">
-              <Link to="/" className="brand-logo logo">
+              <Link
+                to="/"
+                className="brand-logo logo center blue-text text-lighten-4 hide-on-small-and-medium"
+              >
                 PRAX
               </Link>
               <Link to="#" className="sidenav-trigger" data-target="nav-mobile">
                 <i className="material-icons">menu</i>
-              </Link>
-              <Link to="#" className="right account_circle">
-                <i className="material-icons disabled">account_circle</i>
               </Link>
             </div>
           </nav>

@@ -4,9 +4,16 @@ a.logo {
 }
 
 #nav-mobile {
-  margin-top: 64px;
 }
 
 .side-menu {
   z-index: 1;
+}
+
+.name-card {
+  line-height: 115%;
+}
+
+.profile-img {
+  margin-top: 20%;
 }

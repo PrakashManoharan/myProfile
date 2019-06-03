@@ -37,7 +37,7 @@ class Contact extends React.Component {
                     <div className="divider" />
                     <br />
                     <li>
-                      <i class="material-icons left">mobile_friendly</i>
+                      <i className="material-icons left">mobile_friendly</i>
                       0470 084 197
                     </li>
                     <div className="divider" />
