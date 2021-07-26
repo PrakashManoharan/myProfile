@@ -2,6 +2,7 @@ import React from 'react';
 import '../css/footer.css';
 
 export default function Footer() {
+  const currentYear = new Date().getFullYear();
   return (
     <footer className="page-footer grey lighten-5">
       <div className="container center-align">
@@ -29,7 +30,7 @@ export default function Footer() {
           <br />
           <div className="col s12">
             <p className="grey-text text-darken-2">
-              Designed and Developed by Prakash Manoharan © 2019
+              Designed and Developed by Prakash Manoharan © {currentYear}.
             </p>
           </div>
         </div>
